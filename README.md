@@ -14,6 +14,10 @@ install app dependencies from the root folder
 
 ## running wikiQuiki
 
+run the following command in the root folder to bundle the app
+
+	webpack
+
 serve the public folder over localhost replacing &lt;PORT&gt; with the port you'd like to serve the app on 
 
     cd public/
