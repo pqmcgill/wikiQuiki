@@ -1,0 +1,27 @@
+{
+  "name": "wikiquiki",
+  "version": "1.0.0",
+  "description": "wikipedia based game",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pqmcgill/wikiQuiki.git"
+  },
+  "author": "Patrick McGill, Jeff Halvorsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pqmcgill/wikiQuiki/issues"
+  },
+  "homepage": "https://github.com/pqmcgill/wikiQuiki#readme",
+  "dependencies": {
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "babel-core": "^5.8.23",
+    "babel-loader": "^5.3.2",
+    "webpack": "^1.12.1"
+  }
+}
