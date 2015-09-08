@@ -14,10 +14,10 @@ install app dependencies from the root folder
 
 ## running wikiQuiki
 
-serve the public folder over localhost replacing <PORT> with the port you'd like to serve the app on 
+serve the public folder over localhost replacing &lt;PORT&gt; with the port you'd like to serve the app on 
 
     cd public/
-    python -m SimpleHTTPServer <PORT>
+    python -m SimpleHTTPServer &lt;PORT&gt;
 
 then navigate to the following url in your browser, again replacing <PORT> with your port
 
