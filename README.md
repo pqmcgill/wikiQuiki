@@ -17,9 +17,9 @@ install app dependencies from the root folder
 serve the public folder over localhost replacing &lt;PORT&gt; with the port you'd like to serve the app on 
 
     cd public/
-    python -m SimpleHTTPServer &lt;PORT&gt;
+    python -m SimpleHTTPServer <PORT>
 
-then navigate to the following url in your browser, again replacing <PORT> with your port
+then navigate to the following url in your browser, again replacing &lt;PORT&gt; with your port
 
     http://localhost:<PORT>
 
