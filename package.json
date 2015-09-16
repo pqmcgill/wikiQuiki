@@ -4,7 +4,7 @@
   "description": "wikipedia based game",
   "main": "App.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "webpack-dev-server --devtool eval --progress --colors --content-base public"
   },
   "repository": {
     "type": "git",
